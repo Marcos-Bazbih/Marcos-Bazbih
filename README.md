@@ -4,7 +4,7 @@
 
 
 
-## 📫 How to reach me:
+## 📫 Contact me here:
 
 * ### marcosbaza100@gmail.com
 * ### [My linkedin](https://www.linkedin.com/in/marcos-bazbih/) 
