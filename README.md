@@ -1,9 +1,10 @@
 # 👋 Welcome, I'm Marcos
+
 ### I am currently a full stack development student
 
 
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 
 * ### marcosbaza100@gmail.com
 * ### [My linkedin](https://www.linkedin.com/in/marcos-bazbih/) 
