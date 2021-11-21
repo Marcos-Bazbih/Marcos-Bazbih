@@ -2,8 +2,6 @@
 
 ### I am currently a full stack development student
 
-
-
 ## 📫 Contact me here:
 
 * ### marcosbaza100@gmail.com
