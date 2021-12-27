@@ -1,6 +1,11 @@
 # 👋 Welcome, I'm Marcos
 
-### Full stack developer
+# Full stack developer
+
+## Technologies: 
+### Front-end: HTML5, CSS3, Javascript, React
+### Back-end: C#, Asp.Net MVC
+
 
 ## 📫 Contact me here:
 
