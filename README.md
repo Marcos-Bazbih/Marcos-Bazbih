@@ -1,6 +1,6 @@
 # 👋 Welcome, I'm Marcos
 
-### I am currently a full stack development student
+### Full stack developer
 
 ## 📫 Contact me here:
 
