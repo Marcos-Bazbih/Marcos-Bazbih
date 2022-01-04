@@ -14,11 +14,10 @@
 * ### [My linkedin](https://www.linkedin.com/in/marcos-bazbih/) 
 
 
-
 <!--
 **Marcos-Bazbih/Marcos-Bazbih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your
 
-Here are some ideas to get you started:
+Here are some ideas to get started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
