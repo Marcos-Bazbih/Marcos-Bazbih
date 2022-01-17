@@ -5,7 +5,7 @@
 ## Technologies: 
 ### Front-end: HTML5, CSS3, Javascript, React, Bootstrap, Jest, MUI.
 ### Back-end: C#, Asp.Net, MVC, ADO .NET, Linq to SQL, Entity Framework.
-### Database: MsSQL
+### Database: SQL, MsSQL, MySql, MongoDB, Mongoose.
 
 
 ## 📫 Contact me here:
