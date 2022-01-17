@@ -3,8 +3,8 @@
 # Full stack developer
 
 ## Technologies: 
-### Front-end: HTML5, CSS3, Javascript, React
-### Back-end: C#, Asp.Net, Asp.Net MVC
+### Front-end: HTML5, CSS3, Javascript, React, Bootstrap, Jest, MUI.
+### Back-end: C#, Asp.Net, MVC, ADO .NET, Linq to SQL, Entity Framework.
 ### Database: MsSQL
 
 
