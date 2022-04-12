@@ -3,9 +3,9 @@
 # Full stack developer
 
 ## Technologies: 
-### Front-end: HTML5, CSS3, Javascript, Typescript, React, Bootstrap, Jest, MUI.
-### Back-end: C#, Asp.Net, MVC, ADO .NET, Linq to SQL, Entity Framework.
-### Database: SQL, MsSQL, MySql, MongoDB, Mongoose.
+### Front-end: HTML, CSS, Javascript, Typescript, React, MUI, Styled components, Jest.
+### Back-end: Node.js, Express, Mongoose, C#, Asp.Net MVC, ADO .NET, Linq to SQL, Entity Framework.
+### Database: MongoDB, SQL, MsSQL.
 
 ## 📫 Contact me here:
 
