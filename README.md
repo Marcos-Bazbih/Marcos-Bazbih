@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/marcos-bazbih/" target="blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/marcos-bazbih/" target="_blank" rel="noreferrer">
     <img align="center"
       src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png"
       alt="adam pithewan" height="60" width="70" /></a>
