@@ -4,7 +4,9 @@
 <br>
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p>
+  <img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611460c9ac69ce2208403ca4a8e91b6141325b77a63&rid=giphy.gif&ct=g" alt="adam-pw" />
+</p>
 
 
 - 🔭 I'm currently working on several projects, mainly MERN stack.
