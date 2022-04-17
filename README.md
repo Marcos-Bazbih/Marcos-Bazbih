@@ -67,7 +67,7 @@
   <a href="https://www.w3schools.com/cs/" target="blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cs/" target="blank" rel="noreferrer">
+  <a href="https://dotnet.microsoft.com/en-us/" target="blank" rel="noreferrer">
     <img src="https://www.nilkanth.com/content/images/2008/10/newdotnetlogo_2.png" alt="Asp .Net" width="80" height="40"/>
   </a>
 </p>
@@ -85,7 +85,7 @@
  <a href="https://git-scm.com/" target="blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="blank" rel="noreferrer">
+  <a href="https://github.com/about" target="blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/>
   </a>
   <a href="https://heroku.com" target="blank" rel="noreferrer">
