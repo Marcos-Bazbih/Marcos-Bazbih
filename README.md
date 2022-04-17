@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working on several projects, mainly MERN stack applications.
 
-- 💬 Ask me about web development.
+- 💬 Ask me about web development, programming and more.
 
 <br>
 
