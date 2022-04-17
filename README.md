@@ -5,11 +5,12 @@
 <br>
 
 <p>
-  <img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611460c9ac69ce2208403ca4a8e91b6141325b77a63&rid=giphy.gif&ct=g" alt="dev gif" width="50%" />
+  <img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611460c9ac69ce2208403ca4a8e91b6141325b77a63&rid=giphy.gif&ct=g"
+       alt="dev gif" width="50%" />
 </p>
 
 
-- 🔭 I'm currently working on several projects, mainly MERN stack.
+- 🔭 I'm currently working on several projects, mainly MERN stack applications.
 
 - 💬 Ask me about web development.
 
@@ -18,11 +19,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/marcos-bazbih/" target="blank"><img align="center"
-      src="https://iconape.com/wp-content/files/yd/367773/svg/logo-linkedin-logo-icon-png-svg.png"
-      alt="adam pithewan" height="50" width="70" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
+      src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png"
+      alt="adam pithewan" height="60" width="70" /></a>
+  <a href="mailto:marcosbazbih@gmail.com" target="blank"><img align="center"
       src="https://cdn-icons-png.flaticon.com/512/561/561127.png?w=360"
-      alt="adam pithen wala" height="50" width="50" /></a>
+      alt="adam pithen wala" height="60" width="60" /></a>
 </p>
 
 <br>
