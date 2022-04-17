@@ -18,10 +18,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/marcos-bazbih/" target="_blank"><img align="center"
+  <a href="https://www.linkedin.com/in/marcos-bazbih/" target="blank" rel="noreferrer">
+    <img align="center"
       src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png"
       alt="adam pithewan" height="60" width="70" /></a>
-  <a href="mailto:marcosbazbih@gmail.com" target="_blank"><img align="center"
+  <a href="mailto:marcosbazbih@gmail.com" target="_blank" rel="noreferrer">
+    <img align="center"
       src="https://cdn-icons-png.flaticon.com/512/561/561127.png?w=360"
       alt="adam pithen wala" height="60" width="60" /></a>
 </p>
