@@ -117,9 +117,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-Bazbih&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
 alt="marcos stats"/>
 </p>
-
-<br>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcos-Bazbih&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="marcos streak" />
-</p>
